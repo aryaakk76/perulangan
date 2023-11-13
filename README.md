@@ -1,1 +1,6 @@
-# perulangan
+# perulangan![while](https://github.com/aryaakk76/perulangan/assets/145304894/db023f34-bd19-41c1-b44c-db6a08f6cd2b)
+![tugas](https://github.com/aryaakk76/perulangan/assets/145304894/a434f706-64a1-466d-94c2-ad0c742b9ebe)
+![perulangan bersarang2](https://github.com/aryaakk76/perulangan/assets/145304894/2cdecc4a-b483-4165-9a8a-e5b5be131c02)
+![perulangan bersarang](https://github.com/aryaakk76/perulangan/assets/145304894/1c17827a-e143-4b61-8cec-537e468d074c)
+![perulangan](https://github.com/aryaakk76/perulangan/assets/145304894/785e7b62-2eb8-4e17-9263-130b51913ab9)
+![do while](https://github.com/aryaakk76/perulangan/assets/145304894/2a1cfb85-a028-4904-a3da-17a418bb7de9)
